@@ -1,4 +1,4 @@
-package com.kevin.compousk2
+package com.sebas.proyectosebas
 
 import org.junit.Test
 

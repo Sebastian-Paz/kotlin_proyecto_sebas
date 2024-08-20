@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "compousk2"
+rootProject.name = "proyectosebas"
 include(":app")
  
